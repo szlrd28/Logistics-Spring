@@ -1,0 +1,6 @@
+transports:
+  incomeDeclinePercentage:
+    limits:
+      30: 20
+      60: 40
+      120: 80
